@@ -1,2 +1,2 @@
-# bootstrap-bakery
+# bakery
 https://chakesezechi.github.io/bootstrap-bakery/
