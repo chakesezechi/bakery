@@ -1,2 +1,2 @@
-# bakery
-https://chakesezechi.github.io/bootstrap-bakery/
+# Bakery
+Bakery landing page using bootstrap 4 framework https://chakesezechi.github.io/bakery/
